@@ -287,8 +287,7 @@ Zip Code 19709</p>
                 <p>
                   <a href="#">USA : +1(3479354842)
                   </a>
-                  <a></a>
-                  <a href="#">AFRICA : +234(8032221427)</a>
+                  
                 </p>
               </div>
             </motion.div>
